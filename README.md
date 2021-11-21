@@ -1,4 +1,4 @@
-# Movie-Api
+# Movie-Api webApp
 a simple webapp that uses a movie api to fetch data and display it 
 
 ### Links
